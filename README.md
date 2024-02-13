@@ -1,1 +1,1 @@
-# .github
+The COAST Lab GitHub organization serves as a collection of projects led by various members of the COAST Lab. Please check out the repositories as well as [coast-lab.org/](https://coast-lab.org/) for more information. The [coast-lab.org](https://coast-lab.org/) website is maintained as a repository in this organization and can be found here: [https://github.com/COAST-Lab/COAST-Lab.github.io](https://github.com/COAST-Lab/COAST-Lab.github.io).

@@ -1,12 +1,3 @@
-## Hi there 👋
+# Welcome! 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The COAST Lab GitHub organization serves as a collection of projects led by various members of the COAST Lab. Please check out the repositories as well as [coast-lab.org/](https://coast-lab.org/) for more information. The [coast-lab.org](https://coast-lab.org/) website is maintained as a repository in this organization and can be found here: [https://github.com/COAST-Lab/COAST-Lab.github.io](https://github.com/COAST-Lab/COAST-Lab.github.io).
